@@ -1,0 +1,20 @@
+# Template information section
+name: jetruby
+summary: 
+author: Sorochinskiy Dmitriy
+version: 1.0.0
+license: 
+
+# The declarations for code files
+code_files:
+- {name: Assembly.swift, path: Code/Assembly/Assembly.swift.liquid}
+- {name: Presenter.swift, path: Code/Presenter.swit.liquid}
+- {name: PresenterProtocol.swift, path: Code/PresenterProtocol.swit.liquid}
+- {name: VC.swift, path: Code/VC/vc.swift.liquid}
+- {name: VC.swift, path: Code/VC/vcProtocol.swift.liquid}
+
+# The declarations for test files
+test_files:
+
+# Template dependencies
+dependencies:
